@@ -6,7 +6,7 @@ module.exports = {
                 neon: '#52DEE5',
                 text: '#C7D3FF',
                 textDark: '#A1ABBF',
-                bgblue: '#222E50',
+                bgblue: '#240090',
                 darkerBlue: '#0A192F',
             },
             fontFamily: {
